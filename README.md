@@ -2,17 +2,18 @@
 
 ## Project Description
 
-This project analyzes student marks using Microsoft Excel.
+This project analyzes student performance using Microsoft Excel.
 
-The dataset contains marks for:
-- Mathematics
-- Programming
-- English
-- Statistics
+The dataset contains marks for Mathematics, Programming, English, and Statistics.
 
-The project calculates total marks, average marks, highest marks, and lowest marks.
+## Analysis Performed
 
-It also uses charts to visualize student performance and subject-wise performance.
+- Calculated total marks
+- Calculated average marks
+- Found highest and lowest marks
+- Compared subject-wise performance
+- Analyzed individual student performance
+- Created charts for data visualization
 
 ## Tools Used
 
@@ -25,8 +26,9 @@ It also uses charts to visualize student performance and subject-wise performanc
 
 - Analyze student performance
 - Compare subject-wise marks
-- Identify highest and lowest marks
+- Identify high and low performance
 - Visualize the data using charts
-## Data Analysis
 
-This project analyzes student performance and compares subject-wise marks.
+## Conclusion
+
+The analysis helps understand student performance and compare marks across different subjects using simple data analysis and visualization techniques.
