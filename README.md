@@ -27,3 +27,6 @@ It also uses charts to visualize student performance and subject-wise performanc
 - Compare subject-wise marks
 - Identify highest and lowest marks
 - Visualize the data using charts
+## Data Analysis
+
+This project analyzes student performance and compares subject-wise marks.
